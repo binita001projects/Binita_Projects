@@ -1,0 +1,6 @@
+print("Chapter 1 Assignment")
+firstname=input("First name is:",)
+lastname=input("Last name is:",)
+print("Your Full Name is ",firstname,lastname)
+print("or")
+print(f'Your Full Name is {firstname} {lastname}')
